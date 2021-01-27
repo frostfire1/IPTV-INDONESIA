@@ -52,7 +52,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://rr.dens.tv/h/h08/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",EGG channel
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",NatGeo wild channel
+http://185.71.64.167:80/307245103371/307245103371/80041?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",cartoon network
+http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",national geogrphic
+http://www.elahmad.com/tv/m3u8/tv_anywhere.m3u8?id=natgeo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",national geo wild tes
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
