@@ -56,7 +56,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u
 http://185.71.64.167:80/307245103371/307245103371/80041?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",cartoon network
 http://otv.ftpbd.net/streams/123/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",national geogrphic
-http://www.elahmad.com/tv/m3u8/tv_anywhere.m3u8?id=natgeo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",national geo wild tes
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",national geogrphic indo
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",national geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
