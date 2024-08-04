@@ -1,5 +1,5 @@
 # IPTV-INDONESIA
-jika ada channel yang mati sialhkan open issues
+jika ada channel yang mati silahkan open issues di repo https://github.com/frostfire1/IPTV-INDONESIA
 
 
 # rekomendasi aplikasi iptv
