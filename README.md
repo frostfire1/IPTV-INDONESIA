@@ -1,5 +1,5 @@
 # IPTV-INDONESIA
-dalam pengembangan
+jika ada channel yang mati sialhkan open issues
 
 
 # rekomendasi aplikasi iptv
